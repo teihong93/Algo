@@ -1,0 +1,11 @@
+# Algorithm Practice
+
+#### SOLVED
+- BOJ 16234 -> `PopulationMove.cpp`   
+[인구이동](https://www.acmicpc.net/problem/16234)
+
+- BOJ 14889 -> `StartAndLink.cpp`   
+[스타트와링크](https://www.acmicpc.net/problem/14889)
+
+- BOJ 15683 -> `WatchDog.cpp`   
+[감시](https://www.acmicpc.net/problem/15683)
