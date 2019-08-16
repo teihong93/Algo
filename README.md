@@ -9,3 +9,6 @@
 
 - BOJ 15683 -> `WatchDog.cpp`   
 [감시](https://www.acmicpc.net/problem/15683)
+
+- BOJ 17142 -> `Lab3.cpp`   
+[연구소3](https://www.acmicpc.net/problem/17142)
