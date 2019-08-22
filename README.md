@@ -16,4 +16,5 @@
 - BOJ 17135 -> `CastleDefence.cpp`   
 [캐슬 디펜스](https://www.acmicpc.net/problem/17135)
 
-
+- BOJ 12100 -> `2048.cpp`
+[2048](https://www.acmicpc.net/problem/12100)
