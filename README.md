@@ -18,3 +18,6 @@
 
 - BOJ 12100 -> `2048.cpp`  
 [2048](https://www.acmicpc.net/problem/12100)
+
+- 카카오 2017년도 7번 문제 추석 트래픽 -> `ChoosukTraffic.js`  
+[추석트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)
