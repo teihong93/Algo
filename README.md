@@ -24,3 +24,6 @@
 
 - BOJ 2665 -> `MakeMaze.cpp`  
 [미로 만들기](https://www.acmicpc.net/problem/2665)
+
+- BOJ 2504 -> `ParenValue.cpp`
+[괄호의 값](https://www.acmicpc.net/problem/2504)
