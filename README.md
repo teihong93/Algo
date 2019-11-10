@@ -25,5 +25,10 @@
 - BOJ 2665 -> `MakeMaze.cpp`  
 [미로 만들기](https://www.acmicpc.net/problem/2665)
 
-- BOJ 2504 -> `ParenValue.cpp`
+- BOJ 2504 -> `ParenValue.cpp`  
 [괄호의 값](https://www.acmicpc.net/problem/2504)
+
+- 카카오 2018년도문제뉴스 클러스터링 -> `newsCluster.js`  
+[뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)
+
+
