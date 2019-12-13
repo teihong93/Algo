@@ -30,5 +30,7 @@
 
 - 카카오 2018년도문제뉴스 클러스터링 -> `newsCluster.js`  
 [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)
+- 부등호 -> `Inequel.cpp`  
+[부등호](https://www.acmicpc.net/problem/2529)
 
 
