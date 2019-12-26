@@ -30,7 +30,13 @@
 
 - 카카오 2018년도문제뉴스 클러스터링 -> `newsCluster.js`  
 [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)
-- 부등호 -> `Inequel.cpp`  
+- BOJ 2529 -> `Inequel.cpp`  
 [부등호](https://www.acmicpc.net/problem/2529)
+
+- 프로그래머스 쇠막대기 -> `IronStick.cpp`  
+[쇠막대기](https://programmers.co.kr/learn/courses/30/lessons/42585)
+
+- 프로그래머스 주식가격 -> `StockPrice.cpp`  
+[주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)
 
 
