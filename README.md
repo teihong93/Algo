@@ -40,4 +40,7 @@
 [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)
 
 - 프로그래머스 다리를 지나는 트럭 -> `truck.cpp`  
-[다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)  
+[다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)
+
+- 프로그래머스 기능 개발 -> `developDeploy.js`  
+[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)  
