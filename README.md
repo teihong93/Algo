@@ -44,3 +44,6 @@
 
 - 프로그래머스 기능 개발 -> `developDeploy.js`  
 [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)  
+
+- 위장 -> `spy.go`  
+[위장](https://programmers.co.kr/learn/courses/30/lessons/42578)  
