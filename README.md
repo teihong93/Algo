@@ -54,6 +54,6 @@
 - 프로그래머스 스킬트리 -> `SkillTree.rb`  
 [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)  
 
-- 프로그래머스 조이스틱 `joyStick.go`
+- 프로그래머스 조이스틱 -> `joyStick.go`  
 [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)
 
