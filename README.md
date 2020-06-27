@@ -58,4 +58,7 @@
 [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)
 
 - BOJ 1976 -> `TravelPlan.go`  
-[여행가자](https://www.acmicpc.net/problem/1976)  
+[여행가자](https://www.acmicpc.net/problem/1976)    
+
+- 프로그래머스 불량사용자 -> `blockUser.js`  
+[불량사용자](https://programmers.co.kr/learn/courses/30/lessons/64064)  
