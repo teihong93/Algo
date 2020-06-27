@@ -4,7 +4,7 @@ const findMatchCase = (id_array,target) => {
     const isMatch = (t1,t2) => {
         if (t1.length != t2.length) return false;
         for (let i in t1) {
-           if((t1[i] != t2[i]) && (t1[i]!='*' && t2[i] !='*')){
+           if((t1[i] != t2[i]) && (t2[i] != '*')){
                return false;
            }
         }
@@ -19,7 +19,7 @@ const findMatchCase = (id_array,target) => {
 
 const dfs= (caseArray,level,caseSet) => {
     if(level === caseArray.length) {
-        return (level === caseSet.size) ? resultSet.add([...caseSet].sort().join('')): '';
+        return resultSet.add([...caseSet].sort().join(''));
     }
     
     for(let elem of caseArray[level]) {
