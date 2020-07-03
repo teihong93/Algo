@@ -62,3 +62,8 @@
 
 - 프로그래머스 불량사용자 -> `blockUser.js`  
 [불량사용자](https://programmers.co.kr/learn/courses/30/lessons/64064)  
+
+- 프로그래머스 호텔 방 배정 -> `HotelRoomAssign.js`  
+[호텔 방 배정](https://programmers.co.kr/learn/courses/30/lessons/64063)  
+
+
