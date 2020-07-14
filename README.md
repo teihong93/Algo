@@ -66,4 +66,7 @@
 - 프로그래머스 호텔 방 배정 -> `HotelRoomAssign.js`  
 [호텔 방 배정](https://programmers.co.kr/learn/courses/30/lessons/64063)  
 
+- BOJ 1931 -> `meetingRoom.go`  
+[회의실 배정](https://www.acmicpc.net/problem/1931) 
+
 
