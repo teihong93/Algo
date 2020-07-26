@@ -69,4 +69,7 @@
 - BOJ 1931 -> `meetingRoom.go`  
 [회의실 배정](https://www.acmicpc.net/problem/1931) 
 
+- 프로그래머스 수식 최대화 -> `MaxCalculate.js`  
+[수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)  
+
 
