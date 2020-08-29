@@ -72,4 +72,9 @@
 - 프로그래머스 수식 최대화 -> `MaxCalculate.js`  
 [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)  
 
+- LeetCode Top 1 -> `TwoSum.js`  
+[Two Sum](https://leetcode.com/problems/two-sum/)  
+
+
+
 
