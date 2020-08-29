@@ -76,5 +76,6 @@
 [Two Sum](https://leetcode.com/problems/two-sum/)  
 
 
-
+- 프로그래머스 보석 쇼핑 -> `gemShop.js`  
+[보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258)
 
